@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 81cf33e1-97d4-2bec-3690-e44300ef7307
 ---
@@ -545,4 +548,4 @@ Vapnik, V. N. "[The Nature of Statistical Learning Theory](http://www.santafe.e
 
 ### Neuroeconomics
 
-Camerer, Loewenstein, and Prelec. "How Neuroscience Can Inform Economics." _JEP._ (Under revision)</
+Camerer, Loewenstein, and Prelec. "How Neuroscience Can Inform Economics." _JEP._ (Under revision)\</

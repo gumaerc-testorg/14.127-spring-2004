@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This handout contains tables and graphs associated with Lecture 13.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-127-behavioral-economics-and-finance-spring-2004/5077decfaffe1e72e9cbcb6aaa0f7072_lecture13_slides.pdf
+file: /media/courses/14-127-behavioral-economics-and-finance-spring-2004/5077decfaffe1e72e9cbcb6aaa0f7072_lecture13_slides.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture13_slides.pdf
 uid: 5077decf-affe-1e72-e9cb-cb6aaa0f7072

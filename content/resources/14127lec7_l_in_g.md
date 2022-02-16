@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is the outline for Lecture 7 of this course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-127-behavioral-economics-and-finance-spring-2004/72a4fff3360c39a2a55e85d9d4db33dd_14127lec7_l_in_g.pdf
+file: /media/courses/14-127-behavioral-economics-and-finance-spring-2004/72a4fff3360c39a2a55e85d9d4db33dd_14127lec7_l_in_g.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 14127lec7_l_in_g.pdf
 uid: 72a4fff3-360c-39a2-a55e-85d9d4db33dd
