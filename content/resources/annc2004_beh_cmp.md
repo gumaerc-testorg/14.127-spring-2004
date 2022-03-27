@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1075859e-4cef-e748-703e-ab5bb16b1e24
 resourcetype: Document
 title: annc2004_beh_cmp.pdf
 uid: 93f78af1-3c73-916e-8b85-4f4421fd2d32

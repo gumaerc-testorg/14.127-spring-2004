@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1075859e-4cef-e748-703e-ab5bb16b1e24
 resourcetype: Document
 title: 14127_lec4_noise.pdf
 uid: bc56f89f-3f2f-60f4-e71d-ebd067e242b0

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1075859e-4cef-e748-703e-ab5bb16b1e24
 resourcetype: Document
 title: lec3_kt_scinc_v7.pdf
 uid: 5bcc7741-0c17-3433-6df7-b522d8177100

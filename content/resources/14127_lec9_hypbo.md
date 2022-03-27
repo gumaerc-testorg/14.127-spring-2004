@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1075859e-4cef-e748-703e-ab5bb16b1e24
 resourcetype: Document
 title: 14127_lec9_hypbo.pdf
 uid: a07b6c9f-4439-cfc7-5efa-fd2914c0591c

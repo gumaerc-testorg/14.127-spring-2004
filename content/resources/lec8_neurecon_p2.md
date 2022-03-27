@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1075859e-4cef-e748-703e-ab5bb16b1e24
 resourcetype: Document
 title: lec8_neurecon_p2.pdf
 uid: cda1f27c-46a4-34e8-97b2-b7cd4c232d84
