@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-127-behavioral-economics-and-finance-spring-2004/f4953884f625fe06f92827a95995bf5b_14127_lec12slidepdf.pdf
+file: /courses/14-127-behavioral-economics-and-finance-spring-2004/f4953884f625fe06f92827a95995bf5b_14127_lec12slidepdf.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
