@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 1075859e-4cef-e748-703e-ab5bb16b1e24
 ---
@@ -22,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Prospect Theory ([PDF]({{< baseurl >}}/resources/14127_lec1_pt1))
+Prospect Theory ({{% resource_link 6b4a092f-6157-b19c-ae5a-f5904c555157 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Prospect Theory ([PDF]({{< baseurl >}}/resources/14127_lec1_pt1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Prospect Theory (cont.) ([PDF]({{< baseurl >}}/resources/14127_lec2_pt2))
+Prospect Theory (cont.) ({{% resource_link 4ac99938-5843-e821-2b7e-717912496033 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Prospect Theory (cont.) ([PDF]({{< baseurl >}}/resources/14127_lec2_pt2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Heuristics and Biases ([PDF]({{< baseurl >}}/resources/lec3_kt_scinc_v7))
+Heuristics and Biases ({{% resource_link 5bcc7741-0c17-3433-6df7-b522d8177100 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Heuristics and Biases ([PDF]({{< baseurl >}}/resources/lec3_kt_scinc_v7))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Noise ([PDF]({{< baseurl >}}/resources/14127_lec4_noise))
+Noise ({{% resource_link bc56f89f-3f2f-60f4-e71d-ebd067e242b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Noise ([PDF]({{< baseurl >}}/resources/14127_lec4_noise))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Confusion and Competition ([PDF]({{< baseurl >}}/resources/14127_lec5_c_a_c))
+Confusion and Competition ({{% resource_link acec6ab2-55b7-7146-4231-0fd3f4a9ae11 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ Confusion and Competition ([PDF]({{< baseurl >}}/resources/14127_lec5_c_a_c))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Bounded Rationality ([PDF]({{< baseurl >}}/resources/14127lec6_bndrat))
+Bounded Rationality ({{% resource_link 22c092e2-5f84-f4f5-28ba-3758272a84b1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,9 +80,9 @@ Bounded Rationality ([PDF]({{< baseurl >}}/resources/14127lec6_bndrat))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Learning in Games ([PDF]({{< baseurl >}}/resources/14127lec7_l_in_g))  
+Learning in Games ({{% resource_link 72a4fff3-360c-39a2-a55e-85d9d4db33dd "PDF" %}})  
   
-Neuroeconomics ([PDF]({{< baseurl >}}/resources/lec7_pt2_neco_v2))
+Neuroeconomics ({{% resource_link 68f39335-e63c-9683-6714-cdc6aaedda8e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,9 +91,9 @@ Neuroeconomics ([PDF]({{< baseurl >}}/resources/lec7_pt2_neco_v2))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Neuroeconomics (cont.) ([PDF]({{< baseurl >}}/resources/lec8_neurecon_p2))  
+Neuroeconomics (cont.) ({{% resource_link cda1f27c-46a4-34e8-97b2-b7cd4c232d84 "PDF" %}})  
   
-Happiness ([PDF]({{< baseurl >}}/resources/14127_lec8_happi))
+Happiness ({{% resource_link c0b27551-e7cd-adae-3064-704d0949231b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +102,7 @@ Happiness ([PDF]({{< baseurl >}}/resources/14127_lec8_happi))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Hyperbolic Discounting ([PDF]({{< baseurl >}}/resources/14127_lec9_hypbo))
+Hyperbolic Discounting ({{% resource_link a07b6c9f-4439-cfc7-5efa-fd2914c0591c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,9 +111,9 @@ Hyperbolic Discounting ([PDF]({{< baseurl >}}/resources/14127_lec9_hypbo))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Consumption of Hyperbolics ([PDF]({{< baseurl >}}/resources/14127mtfrlc10pt1)) (Courtesy of David Laibson, Andrea Repetto, and Jeremy Tobacman. Used with permission.)  
+Consumption of Hyperbolics ({{% resource_link 56c087ee-cb96-8f2c-4734-beb9078e2aa4 "PDF" %}}) (Courtesy of David Laibson, Andrea Repetto, and Jeremy Tobacman. Used with permission.)  
   
-Self Control and Temptation a La Gul-Pesendorfer ([PDF]({{< baseurl >}}/resources/14127_lec10part2))
+Self Control and Temptation a La Gul-Pesendorfer ({{% resource_link f2e06984-de31-e14f-fe6a-d375ba29fd94 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,9 +122,9 @@ Self Control and Temptation a La Gul-Pesendorfer ([PDF]({{< baseurl >}}/resource
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Fairness ([PDF]({{< baseurl >}}/resources/lec11a))  
+Fairness ({{% resource_link 6e10db64-7c5a-433f-ac69-c99153def57b "PDF" %}})  
   
-Introduction to Behavioral Finance ([PDF]({{< baseurl >}}/resources/lec11b))
+Introduction to Behavioral Finance ({{% resource_link 140296b2-bf4b-70bf-7a3b-43c4b5902f22 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,9 +133,9 @@ Introduction to Behavioral Finance ([PDF]({{< baseurl >}}/resources/lec11b))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Efficiency and Habits ([PDF]({{< baseurl >}}/resources/14127_lec12habit))  
+Efficiency and Habits ({{% resource_link 36a22f24-dda1-2842-0709-b502d0e5ff69 "PDF" %}})  
   
-Handout ([PDF - 1.2 MB]({{< baseurl >}}/resources/127hand1))
+Handout ({{% resource_link 8c402690-261f-dfd1-3f60-65918d1f96ec "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,9 +144,9 @@ Handout ([PDF - 1.2 MB]({{< baseurl >}}/resources/127hand1))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Prospect Theory Assets, Puzzles, and Bubbles ([PDF]({{< baseurl >}}/resources/14127_lec13buble))  
+Prospect Theory Assets, Puzzles, and Bubbles ({{% resource_link 8243f06b-a2b7-e37e-4b21-05eb52c675ae "PDF" %}})  
   
-Slides (Graphs) ([PDF]({{< baseurl >}}/resources/lecture13_slides))
+Slides (Graphs) ({{% resource_link 5077decf-affe-1e72-e9cb-cb6aaa0f7072 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

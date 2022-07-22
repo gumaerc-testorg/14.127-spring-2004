@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 81cf33e1-97d4-2bec-3690-e44300ef7307
 ---
@@ -140,7 +144,7 @@ Duflo, E., and E. Saez. "[Participation and Investment Decisions in a Retirement
 
 Madrian, Brigitte, and D. Shea. "The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior." _Quarterly Journal of Economics_ 116 (2001): 1149-1525.
 
-\*Thaler, and Bernatzi. "Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving." ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/380085))
+\*Thaler, and Bernatzi. "Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving." ([PDF](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/380085))
 
 Other Perspectives
 
@@ -545,4 +549,4 @@ Vapnik, V. N. "[The Nature of Statistical Learning Theory](http://www.santafe.e
 
 ### Neuroeconomics
 
-Camerer, Loewenstein, and Prelec. "How Neuroscience Can Inform Economics." _JEP._ (Under revision)</
+Camerer, Loewenstein, and Prelec. "How Neuroscience Can Inform Economics." _JEP._ (Under revision)\</
