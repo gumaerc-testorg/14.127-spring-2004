@@ -5,6 +5,7 @@ file: /courses/14-127-behavioral-economics-and-finance-spring-2004/cda1f27c46a43
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec8_neurecon_p2.pdf
 uid: cda1f27c-46a4-34e8-97b2-b7cd4c232d84
 ---
 This is the outline for Lecture 8 of this course.
-

@@ -5,6 +5,7 @@ file: /courses/14-127-behavioral-economics-and-finance-spring-2004/a07b6c9f4439c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14127_lec9_hypbo.pdf
 uid: a07b6c9f-4439-cfc7-5efa-fd2914c0591c
 ---
 This is the outline for Lecture 9 of this course.
-
