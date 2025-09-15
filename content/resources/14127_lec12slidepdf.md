@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-127-behavioral-economics-and-finance-spring-2004/f4953884f625fe06f92827a95995bf5b_14127_lec12slidepdf.pdf
+file: /ol-ocw-studio-app/courses/14-127-behavioral-economics-and-finance-spring-2004/f4953884f625fe06f92827a95995bf5b_14127_lec12slidepdf.pdf
+file_size: 72690
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

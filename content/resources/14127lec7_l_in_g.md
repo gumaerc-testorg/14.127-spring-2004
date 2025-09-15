@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is the outline for Lecture 7 of this course.
-file: /courses/14-127-behavioral-economics-and-finance-spring-2004/72a4fff3360c39a2a55e85d9d4db33dd_14127lec7_l_in_g.pdf
+file: /ol-ocw-studio-app/courses/14-127-behavioral-economics-and-finance-spring-2004/72a4fff3360c39a2a55e85d9d4db33dd_14127lec7_l_in_g.pdf
+file_size: 121893
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

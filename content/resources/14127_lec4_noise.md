@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is the outline for Lecture 4 of this course.
-file: /courses/14-127-behavioral-economics-and-finance-spring-2004/bc56f89f3f2f60f4e71debd067e242b0_14127_lec4_noise.pdf
+file: /ol-ocw-studio-app/courses/14-127-behavioral-economics-and-finance-spring-2004/bc56f89f3f2f60f4e71debd067e242b0_14127_lec4_noise.pdf
+file_size: 220278
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

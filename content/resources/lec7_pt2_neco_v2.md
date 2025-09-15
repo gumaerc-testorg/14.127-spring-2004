@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is the outline for Part 2 of Lecture 7.
-file: /courses/14-127-behavioral-economics-and-finance-spring-2004/68f39335e63c96836714cdc6aaedda8e_lec7_pt2_neco_v2.pdf
+file: /ol-ocw-studio-app/courses/14-127-behavioral-economics-and-finance-spring-2004/68f39335e63c96836714cdc6aaedda8e_lec7_pt2_neco_v2.pdf
+file_size: 46838
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-127-behavioral-economics-and-finance-spring-2004/504718ed2a18d07cfc38b354ff1b9304_prspect_theo_exp.pdf
+file: /ol-ocw-studio-app/courses/14-127-behavioral-economics-and-finance-spring-2004/504718ed2a18d07cfc38b354ff1b9304_prspect_theo_exp.pdf
+file_size: 34918
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

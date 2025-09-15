@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is the outline for Lecture 11a of this course.
-file: /courses/14-127-behavioral-economics-and-finance-spring-2004/140296b2bf4b70bf7a3b43c4b5902f22_lec11b.pdf
+file: /ol-ocw-studio-app/courses/14-127-behavioral-economics-and-finance-spring-2004/140296b2bf4b70bf7a3b43c4b5902f22_lec11b.pdf
+file_size: 180876
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
