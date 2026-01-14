@@ -29,7 +29,7 @@ Introduction
 \*Rabin, M. "Economics and Psychology." _JEL_ 36, no. 1 (March 1998): 11-46.
 
 \*Kahneman, D. "Maps of Bounded Rationality: Psychology for Behavioral Economics." _American Economic Review_ (December 2003): 1449-1475.  
-This is Kahneman's Nobel lecture. See a {{% resource_link "b14b062a-142b-4ea0-a5da-a0bcce9b87ae" "video" %}} of it.
+This is Kahneman's Nobel lecture. See a [video](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/) of it.
 
 Thaler, Richard. _The Winner's Curse: Paradoxes and Anomalies of Economic Life_. Princeton, N. J.: Princeton University Press, 1994.
 
@@ -58,7 +58,7 @@ Thaler, R. "Mental Accounting." In _Quasi-Rational Economics_. Russell Sage Foun
 
 Tversky, A., and D. Kahneman. "The Framing of Decisions and the Psychology of Choice." _Science_ 211 (1981): 453-8.
 
-Slovic, Paul. "{{% resource_link "82f18c05-3014-485c-ae1c-855b7a01b368" "Rational Actors and Rational Fools: Implications of the Affect Heuristic for Behavioral Economics" %}}."
+Slovic, Paul. "[Rational Actors and Rational Fools: Implications of the Affect Heuristic for Behavioral Economics](http://ideas.repec.org/a/eee/soceco/v31y2002i4p329-342.html)."
 
 ### Decisions Under Risk and Uncertainty
 
@@ -72,13 +72,13 @@ Slovic, Paul. "{{% resource_link "82f18c05-3014-485c-ae1c-855b7a01b368" "Rationa
 
 Overconfidence, and Manipulation of Beliefs
 
-{{% resource_link "bf643d01-4258-493f-b351-8a88d11e4128" "Benabou, R" %}}., and Jean Tirole. "Self-Confidence and Personal Motivation." _Quarterly Journal of Economics_ 117, no. 3 (August 2002): 871-915.
+[Benabou, R](http://www.princeton.edu/~rbenabou/)., and Jean Tirole. "Self-Confidence and Personal Motivation." _Quarterly Journal of Economics_ 117, no. 3 (August 2002): 871-915.
 
-{{% resource_link "4b2f242b-17cf-4ebe-bd5f-d5f1ce3c26c2" "Brunnermeier, M." %}}, and J. Parker. _Optimal Expectations_. Princeton University (2002).
+[Brunnermeier, M.](http://www.princeton.edu/~markus/), and J. Parker. _Optimal Expectations_. Princeton University (2002).
 
-{{% resource_link "8193bd3f-3786-439f-b305-28ada18cb158" "Koszegi, B. U." %}} "Ego Utility and Information Acquisition." Berkeley Mimeo. ({{% resource_link "34dd0e6b-fbdb-4408-abe3-c04a8158f389" "PDF" %}}) 
+[Koszegi, B. U.](http://www.personal.ceu.hu/staff/Botond_Koszegi/) "Ego Utility and Information Acquisition." Berkeley Mimeo. ([PDF](http://www.personal.ceu.hu/staff/Botond_Koszegi/collection.pdf)) 
 
-Landier, Augustin, and David Thesmar. "{{% resource_link "9db3deb9-f6ec-44a9-9ce5-0e9279c91c1f" "Contracting with Optimistic Entrepreneurs: Theory and Evidence" %}}." May 2004.
+Landier, Augustin, and David Thesmar. "[Contracting with Optimistic Entrepreneurs: Theory and Evidence](http://ideas.repec.org/p/cpr/ceprdp/3971.html)." May 2004.
 
 Quattrone, and Tversky. "Contrasting Rational and Psychological Analyses of Political Choice." _American Political Science Review_ 82, no. 3 (September): 720-736. _CVF_, Chapter 25.
 
@@ -102,13 +102,13 @@ Contingent Valuation
 
 \*Kahneman, D., Ilana Ritov, and Savid Schkade. "Economic Preferences or Attitude Expressions? An Analysis of Dollar Responses to Public Issues." _CVF_, Chapter 36.
 
-\*{{% resource_link "0307694b-c250-4ae2-9532-a52e03f54a07" "Gul, F" %}}., and Pesendorfer. "Self-Control and the Theory of Consumption." Mimeo.
+\*[Gul, F](http://www.princeton.edu/~fgul/research.html)., and Pesendorfer. "Self-Control and the Theory of Consumption." Mimeo.
 
 ### Time Discounting
 
 Some Psychological Evidence on Time Discounting
 
-\*Frederick, Shane, and {{% resource_link "bda85842-1f5b-4c92-9a90-9bbe7808813a" "G. Loewenstein" %}}, and T. O'Donoghue. "Time Discounting: A Critical Review." Forth. _JEL_. In _ABE_.
+\*Frederick, Shane, and [G. Loewenstein](https://academic.oup.com/qje/article-abstract/118/1/73/1917051?redirectedFrom=fulltext), and T. O'Donoghue. "Time Discounting: A Critical Review." Forth. _JEL_. In _ABE_.
 
 Metcalfe, J., and W. Mischel. "A Hot/Cold System Analysis of Delay of Gratification: Dynamics of Willpower." _Psychological Review_ 106, no. 1 (1999): 3-19.
 
@@ -116,7 +116,7 @@ Mischel, W., Y. Shoda, and M. L. Rodriguez. "Delay of Gratification in Children.
 
 Modeling Time Discounting and Self-control
 
-\*{{% resource_link "0307694b-c250-4ae2-9532-a52e03f54a07" "Gul, F" %}}., and Pesendorfer. "Self-Control and the Theory of Consumption." Mimeo.
+\*[Gul, F](http://www.princeton.edu/~fgul/research.html)., and Pesendorfer. "Self-Control and the Theory of Consumption." Mimeo.
 
 \*Laibson, D. "Golden Eggs and Hyperbolic Discounting." _QJE_ 112, no. 2 (May 1997): 443-77.
 
@@ -124,31 +124,31 @@ Applications
 
 Angeletos, M., D. Laibson, A. Repetto, and J. Tobacman. "The Hyperbolic Buffer Stock Model: Calibration, Simulation, and Empirical Evaluation." _JEP_ (2002).
 
-Bernheim, D., D. Garrett, and D. Maki.  "Education and Saving: The Long-Term Effects of High School Financial Curriculum Mandates." Working Paper 97012, Stanford University, Department of Economics.({{% resource_link "4cd3a9f7-60a4-4652-8808-1d8ecdea3c06" "PDF" %}})
+Bernheim, D., D. Garrett, and D. Maki.  "Education and Saving: The Long-Term Effects of High School Financial Curriculum Mandates." Working Paper 97012, Stanford University, Department of Economics.([PDF](https://www.nber.org/papers/w6085))
 
-\*Bernheim, D., J. Skinner, and S. Weinberg. "What Accounts for the Variation in Retirement Wealth Among U.S. Households?" _AER_ 91 (2001): 832-857. See also: Stanford Working Paper 97035. {{% resource_link "db8e0822-33f1-4a80-8bca-7d27cea60f3c" "(PDF" %}})
+\*Bernheim, D., J. Skinner, and S. Weinberg. "What Accounts for the Variation in Retirement Wealth Among U.S. Households?" _AER_ 91 (2001): 832-857. See also: Stanford Working Paper 97035. [(PDF](https://www.nber.org/papers/w6227))
 
-\*Laibson, D., A. Repetto, and J. Tobacman. "A Debt Puzzle." Forthcoming in _Essays in Honor of E. Phelps._ ({{% resource_link "d4840883-1a7b-47e1-98f8-8b9c50556bd0" "PDF" %}})
+\*Laibson, D., A. Repetto, and J. Tobacman. "A Debt Puzzle." Forthcoming in _Essays in Honor of E. Phelps._ ([PDF](http://scholar.harvard.edu/files/laibson/files/a_debt_puzzle.pdf))
 
 Luttmer, Erzo, and Thomas Mariotti. "Subjective Discounting in an Exchange Economy." _JPE_ (2003). (Finance application)
 
 Mankiw. "The Savers-Spenders Theory of Fiscal Policy." _AER_ (May 2000).
 
-O'Donoghue, Ted, and M. Rabin. "{{% resource_link "415d3d8d-b633-4d49-b17d-947d3f1a8059" "Doing It Now or Later" %}}." _AER_ 89, no. 1 (March 1999): 103-24.
+O'Donoghue, Ted, and M. Rabin. "[Doing It Now or Later](https://www.aeaweb.org/articles?id=10.1257/aer.89.1.103)." _AER_ 89, no. 1 (March 1999): 103-24.
 
 Financial Literacy and Social Influence
 
-Choi, James C. Choi, {{% resource_link "1280ebc1-a7ca-4edb-a80d-2b4db417bd7a" "David Laibson" %}}, Brigitte C. Madrian, and Adnrew Metrick.  "Active Decisions: A Natural Experiment in Savings." August 4, 2003. ({{% resource_link "12119c7b-f5e7-4a69-9647-99b3a066822e" "PDF" %}})
+Choi, James C. Choi, [David Laibson](http://www.economics.harvard.edu/faculty/laibson), Brigitte C. Madrian, and Adnrew Metrick.  "Active Decisions: A Natural Experiment in Savings." August 4, 2003. ([PDF](http://cep.lse.ac.uk/seminarpapers/14-10-03-LAI.pdf))
 
-Duflo, E., and E. Saez. "{{% resource_link "52a251ef-f29a-4851-b313-17d1b01f9fdf" "Participation and Investment Decisions in a Retirement Plan: The Influence of Colleagues' Choices" %}}." NBER Working Paper No. W7735.
+Duflo, E., and E. Saez. "[Participation and Investment Decisions in a Retirement Plan: The Influence of Colleagues' Choices](http://papers.nber.org/papers/w7735)." NBER Working Paper No. W7735.
 
 Madrian, Brigitte, and D. Shea. "The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior." _Quarterly Journal of Economics_ 116 (2001): 1149-1525.
 
-\*Thaler, and Bernatzi. "Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving." ({{% resource_link "a0dd3421-ce5c-4e8c-8eba-1be6ef5ccf6a" "PDF" %}})
+\*Thaler, and Bernatzi. "Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving." ([PDF](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/380085))
 
 Other Perspectives
 
-Ameriks, John, {{% resource_link "51ef1a48-387c-40c8-8f8d-321e9de349d3" "Andrew Caplin" %}}, and John Leahy. "Wealth Accumulation and the Propensity to Plan." Forthcoming _Quarterly Journal of Economics_.
+Ameriks, John, [Andrew Caplin](http://www.econ.nyu.edu/user/caplina/), and John Leahy. "Wealth Accumulation and the Propensity to Plan." Forthcoming _Quarterly Journal of Economics_.
 
 ### Bounded Rationality
 
@@ -188,15 +188,15 @@ Categorization
 
 \*Mullainathan, Sendhil. "Thinking through Categories." MIT Mimeo.
 
-Fryer, and Jackson. {{% resource_link "b6bbcb46-a89b-48bb-a895-b6125bc69f40" "Categorical Cognition" %}}. NBER Working Papers 9579. 2003.
+Fryer, and Jackson. [Categorical Cognition](http://ideas.repec.org/p/wpa/wuwpmi/0211002.html). NBER Working Papers 9579. 2003.
 
 Wilson, Andrea. "Bounded Memory and Biases in Information Processing." _NajEcon Working Paper Reviews_.
 
 ### Memory
 
-\*Ameriks, John, {{% resource_link "51ef1a48-387c-40c8-8f8d-321e9de349d3" "Andrew Caplin" %}}, and John Leahy. "The Absent-Minded Consumer." January 2004. ({{% resource_link "38dd8bac-1f78-4b4a-ae25-c3293e636a39" "PDF" %}})
+\*Ameriks, John, [Andrew Caplin](http://www.econ.nyu.edu/user/caplina/), and John Leahy. "The Absent-Minded Consumer." January 2004. ([PDF](http://www.econ.nyu.edu/user/caplina/absentminded.pdf))
 
-\*Mullainathan, S. "A Memory Based Model of Bounded Rationality." _QJE_ (2002). ({{% resource_link "f609989b-d122-4853-bada-a86a8ae06e51" "PDF" %}})
+\*Mullainathan, S. "A Memory Based Model of Bounded Rationality." _QJE_ (2002). ([PDF](https://academic.oup.com/qje/article/117/3/735/1932979))
 
 ### Behavioral Game Theory
 
@@ -204,7 +204,7 @@ Wilson, Andrea. "Bounded Memory and Biases in Information Processing." _NajEcon 
 
 \*Camerer, Colin, and Teck-Hua Ho. "Experience Weighted Attraction Learning in Normal-Form Games." _Econometrica_ 67, no. 4 (July 1999): 827-74.
 
-\*Ho, Teck-Hua, {{% resource_link "9e13ee54-c2d0-4ebe-a643-527560bf6424" "Colin F. Camerer," %}} and Juin-Kuan Chong. "The Economic Value of EWA Lite: A Functional Theory of Learning in Games."
+\*Ho, Teck-Hua, [Colin F. Camerer,](http://en.wikipedia.org/wiki/Colin_Camerer) and Juin-Kuan Chong. "The Economic Value of EWA Lite: A Functional Theory of Learning in Games."
 
 Camerer, Colin, and Teck-Hua Ho. "Iterated Dominance and Iterated Best Response in Experimental "p-Beauty Contests." _AER_ 88, no. 4 (September 1998): 947-69.
 
@@ -218,15 +218,15 @@ La Porta, Schleifer, and Vishny. "Trust in Large Organizations." _American Econ
 
 ### Public Goods
 
-{{% resource_link "ac467bef-4ccc-46b3-b57e-7af9d2d40df1" "Ledyard, John O." %}} "Public Goods: A Survey of Experimental Research." _Handbook of Experimental Economics._ Princeton University Press, 1995.
+[Ledyard, John O.](http://people.hss.caltech.edu/~jledyard/) "Public Goods: A Survey of Experimental Research." _Handbook of Experimental Economics._ Princeton University Press, 1995.
 
 ### Attention
 
-Barber, Brad, and Terrance Odean. "All that Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors." 2003. ({{% resource_link "83a7f154-6e20-4e8b-83b1-02b06fb4f760" "PDF" %}})
+Barber, Brad, and Terrance Odean. "All that Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors." 2003. ([PDF](http://faculty.haas.berkeley.edu/odean/papers/Attention/All%20that%20Glitters.pdf))
 
 Hirshleifer, David, and Siew Teoh. "Limited Attention, Information Disclosure, and Financial Reporting." Ohio State Working Paper, October 2003. Background.
 
-\*{{% resource_link "77b66b03-4d26-4cf6-8c30-fc0271dcf7ba" "DellaVigna, Stefano" %}}, and Joshua Pollet. "Attention, Demographic Changes, and the Stock Market." 2003.
+\*[DellaVigna, Stefano](http://emlab.berkeley.edu/users/sdellavi/), and Joshua Pollet. "Attention, Demographic Changes, and the Stock Market." 2003.
 
 \*Gabaix, Xavier, David Laibson, Guillermo Moloche, and Stephen Weinberg. "The Allocation of Attention: Theory and Evidence." Mimeo.
 
@@ -234,20 +234,20 @@ Hirshleifer, David, Sonya Lim, and Siew Teoh. "Disclosure to a Credulous Audienc
 
 \*Hong, Harrison, and Jeremy Stein. "Simple Forecasts and Paradigm Shifts." NBER Working Papers 10013.
 
-{{% resource_link "f8eda93d-b792-4785-b066-bd2862a6e019" "Sims, C" %}}. "Rational Inattention." _Journal of Monetary Economics_ 50, 665-690.
+[Sims, C](http://www.princeton.edu/~sims/). "Rational Inattention." _Journal of Monetary Economics_ 50, 665-690.
 
 Industrial Organization
 -----------------------
 
 Ausubel, L. "The Failure of Competition in the Credit Card Market." _American Economic Review_ (1991).
 
-{{% resource_link "77b66b03-4d26-4cf6-8c30-fc0271dcf7ba" "Stefano, Della Vigna" %}}, and Ulrike Malmendier. "Overestimating Self-Control: Evidence from the Health Club Industry." Mimeo. 2003.
+[Stefano, Della Vigna](http://emlab.berkeley.edu/users/sdellavi/), and Ulrike Malmendier. "Overestimating Self-Control: Evidence from the Health Club Industry." Mimeo. 2003.
 
 \*———. "Contract Design and Self-Control: Theory and Evidence." Edited by Ulrike Malmendier. January 2004. Forthcoming in _Quarterly Journal of Economics_ (May 2004).
 
-\*Gabaix, Xavier, and David Laibson. "{{% resource_link "ac7634f5-5ebb-494f-87f0-ac8143597ab6" "Some Industrial Organization with Boundedly Rational Consumers" %}}."
+\*Gabaix, Xavier, and David Laibson. "[Some Industrial Organization with Boundedly Rational Consumers](http://econ-www.mit.edu/faculty/)."
 
-{{% resource_link "0f4fec56-ce65-4a2f-9393-d83d872c1221" "Glaeser, Edward L" %}}. "{{% resource_link "a259a15c-223e-44d5-b824-5b3207a7df58" "The Political Economy of Hatred" %}}." August 2002.
+[Glaeser, Edward L](http://ideas.repec.org/e/pgl9.html#papers). "[The Political Economy of Hatred](https://scholar.harvard.edu/files/glaeser/files/the_political_economy_of_hatred.pdf)." August 2002.
 
 Mullainathan, S., and A. Shleifer. "Media Bias."
 
@@ -264,7 +264,7 @@ Shiller, R. "Why do People Dislike Inflation?" _NBER WP 5539_, (1996); and in _
 
 Shiller, R. "Public Resistance to Indexation: A Puzzle." _BPEA, no._ 1 (1997): 159-229.
 
-{{% resource_link "07a337e9-d209-4d1c-aa4a-a873cb9dbf5f" "Mankiw, Greg" %}}, Ricardo Reis, and Justin Wolfers. Published, NBER Macroeconomics Annual, "{{% resource_link "7ab4427d-1d58-4ad0-8885-8036fa24921b" "Disagreement About Inflation Expectations" %}}." 2003.
+[Mankiw, Greg](http://ideas.repec.org/e/pma131.html#papers), Ricardo Reis, and Justin Wolfers. Published, NBER Macroeconomics Annual, "[Disagreement About Inflation Expectations](http://papers.nber.org/papers/W9796)." 2003.
 
 Inflation and Unemployment
 
@@ -276,17 +276,17 @@ Price Stickiness
 
 Blinder, et al. _Asking About Prices._ Russel Sage, 1998.
 
-\*{{% resource_link "bb6589ec-8551-4e8d-aed4-5c30693ef963" "Fehr, E" %}}., and J. R. Tyran. "Does Money Illusion Matter?" _AER_ (2001).
+\*[Fehr, E](https://www.econ.uzh.ch/en/people/faculty/fehr.html)., and J. R. Tyran. "Does Money Illusion Matter?" _AER_ (2001).
 
 Inflation and the Equity Premium
 
 Modigliani, F., and R. Cohn. "Inflation, Rational Valuation, and the Market." _The Collected Papers of Franco Modigliani_ 5, MIT Press (1989): 304-24.
 
-\*Campbell, John, and Tuomo Vuolteenaho. "Inflation Illusion and Stock Prices." ({{% resource_link "dc0ac438-d0c8-43d5-94ff-7f7e708e0805" "PDF" %}})
+\*Campbell, John, and Tuomo Vuolteenaho. "Inflation Illusion and Stock Prices." ([PDF](http://dash.harvard.edu/bitstream/handle/1/3196090/campbellnber_inflationillusion.pdf?sequence=2))
 
 Real and Nominal Interest Rate: Fisher Hypothesis
 
-Evans, Martin. "{{% resource_link "9e6964c4-408f-4a3d-a3c3-2d561b63cb22" "Real Rates, Expected Inflation and Inflation Risk Premia" %}}." _Journal of Finance_ (1997).
+Evans, Martin. "[Real Rates, Expected Inflation and Inflation Risk Premia](http://dx.doi.org/10.1111/0022-1082.75591)." _Journal of Finance_ (1997).
 
 Kandel, S., A. Ofer, and O. Sarig. "Real Interest Rates and Inflation: An Ex-Ante Empirical Analysis." _Journal of Finance_ (1996): 205-25.
 
@@ -301,9 +301,9 @@ Bewley, T. _Why Wages Don't Fall During a Recession, 1999_. Harvard UP, chapte
 
 \*Fehr, and Fischbacher. "The Nature of Human Altruism." _Nature_ 425 (23 October 2003): 785-791.
 
-\*{{% resource_link "bb6589ec-8551-4e8d-aed4-5c30693ef963" "Fehr" %}}, and Gächter. "Fairness and Retaliation: The Economics of Reciprocity." _Journal of Economic Perspectives_ 14 (2000).
+\*[Fehr](https://www.econ.uzh.ch/en/people/faculty/fehr.html), and Gächter. "Fairness and Retaliation: The Economics of Reciprocity." _Journal of Economic Perspectives_ 14 (2000).
 
-\*{{% resource_link "bb6589ec-8551-4e8d-aed4-5c30693ef963" "Fehr" %}}, and Schmidt. "A Theory of Fairness, Competition and Cooperation." _QJE_ 114 (1999): 817-868. 
+\*[Fehr](https://www.econ.uzh.ch/en/people/faculty/fehr.html), and Schmidt. "A Theory of Fairness, Competition and Cooperation." _QJE_ 114 (1999): 817-868. 
 
 \*Henrich, Fehr, Boyd, Bowles, Gintis, Camerer, and McElreath. "In Search of Homo Economicus: Behavioral Experiments in 15 Small-Scale Societies." _American Economic Review_ 91 (2001): 73-78.
 
@@ -313,16 +313,16 @@ Rabin, M. "Incorporating Fairness into Game Theory and Economics." _AER_ (1993):
 
 Camerer, Babcock, Loewenstein, Thaler. "Labor Supply of New York City Cabdrivers: On Day at a Time." _QJE_ (1997): 407-42. _CVF_, Chapter 20.
 
-{{% resource_link "bb6589ec-8551-4e8d-aed4-5c30693ef963" "Fehr, E" %}}., and L. Goette. "{{% resource_link "19cbbd77-4ccb-4ae4-8723-bb8ca0339504" "Do Workers Work More if Wages are High? Evidence from a Randomized Field Experiment" %}}." IEW - Working Papers iewwp125.
+[Fehr, E](https://www.econ.uzh.ch/en/people/faculty/fehr.html)., and L. Goette. "[Do Workers Work More if Wages are High? Evidence from a Randomized Field Experiment](https://faculty.smu.edu/millimet/classes/eco7321/papers/fehr%20goette.pdf)." IEW - Working Papers iewwp125.
 
-{{% resource_link "7be42122-b879-445d-9513-f49849de23a0" "Farber, Henry" %}}. "Is Tomorrow Another Day? The Labor Supply of New York City Cab Drivers." NBER Working Papers 9706, May 2003.
+[Farber, Henry](http://www.nber.org/people/henry_farber). "Is Tomorrow Another Day? The Labor Supply of New York City Cab Drivers." NBER Working Papers 9706, May 2003.
 
 Oettinger, G. "An Empirical Analysis of the Daily Labor Supply of Stadium Vendors." _JPE_ (1999): 360-92.
 
 Addiction
 ---------
 
-\*Bernheim, Antonio, and Douglas Bernheim. "Addiction and Cue-Conditioned Cognitive Processes." NBER Working Papers 9329. {{% resource_link "3fd511e4-d443-47f1-a0e7-37f4d0259611" "Research: Behavioral Public Economics" %}}.
+\*Bernheim, Antonio, and Douglas Bernheim. "Addiction and Cue-Conditioned Cognitive Processes." NBER Working Papers 9329. [Research: Behavioral Public Economics](http://www.nber.org/papers/w11518).
 
 Gruber, J., and B. Koszegi. "Is Addiction 'Rational'? Theory and Evidence." _Quarterly Journal of Economics_ 116, no. 4 (2001): 1261-1305.
 
@@ -333,24 +333,24 @@ Finance
 
 \*Barberis, and Thaler. "A Survey of Behavioral Finance." 
 
-Cochrane, John. "{{% resource_link "bb4bffb0-7d91-4ac4-abcb-560ae5afa090" "New Facts in Finance" %}}." _Economic Perspectives_ XXIII, no. 3 (1999).
+Cochrane, John. "[New Facts in Finance](http://www.nber.org/papers/w7169)." _Economic Perspectives_ XXIII, no. 3 (1999).
 
-{{% resource_link "1a6f6bf9-1895-4652-b004-529bfecb3825" "Hirshleifer" %}}. "Investor Psychology and Asset Pricing." _Journal of Finance_ 56, no. 4 (August 2001): 1533-1598.
+[Hirshleifer](https://sites.uci.edu/dhirshle/). "Investor Psychology and Asset Pricing." _Journal of Finance_ 56, no. 4 (August 2001): 1533-1598.
 
 ### Direct Evidence on Investor Behavior
 
 \*Benartzi, S., and R. Thaler. "Naive Diversification Strategies in Defined Contribution Savings Plans." _AER_ (2001).
 
-Barber, Brad, and Terrance Odean. "All that Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors." 2003. ({{% resource_link "83a7f154-6e20-4e8b-83b1-02b06fb4f760" "PDF" %}})  
-See {{% resource_link "922e598a-2bb5-4b2b-8168-bd9a183332c5" "other papers" %}}.
+Barber, Brad, and Terrance Odean. "All that Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors." 2003. ([PDF](http://faculty.haas.berkeley.edu/odean/papers/Attention/All%20that%20Glitters.pdf))  
+See [other papers](http://faculty.haas.berkeley.edu/odean/).
 
 Heath, C., S. Huddart, and M. Lang. "Psychological Factors and Stock Option Exercises." _QJE_ (1999).
 
-Grinblatt, Mark, and Matti Keloharju. "{{% resource_link "cfbd224a-af0d-431d-9947-3ed3b89a5df8" "What Makes Investors Trade?" %}}"
+Grinblatt, Mark, and Matti Keloharju. "[What Makes Investors Trade?](http://dx.doi.org/10.1111/0022-1082.00338)"
 
-\*{{% resource_link "922e598a-2bb5-4b2b-8168-bd9a183332c5" "Odean, T" %}}. "Are Investors Reluctant to Realize Their Losses?" _Journal of Finance_ (1998): 1775-1798. See other papers.
+\*[Odean, T](http://faculty.haas.berkeley.edu/odean/). "Are Investors Reluctant to Realize Their Losses?" _Journal of Finance_ (1998): 1775-1798. See other papers.
 
-Odean, T. "{{% resource_link "80df20d8-9cd7-49d6-b9b8-7500d1846eed" "Boys will be Boys: Gender, Overconfidence, and Common Stock Investment" %}}." Edited by Brad Barber. _Quarterly Journal of Economics_ 116, no. 1 (February 2001): 261-292.
+Odean, T. "[Boys will be Boys: Gender, Overconfidence, and Common Stock Investment](http://faculty.haas.berkeley.edu/odean/papers/gender/gender.html)." Edited by Brad Barber. _Quarterly Journal of Economics_ 116, no. 1 (February 2001): 261-292.
 
 \*Odean, T. "Do Investors Trade too Much?" _AER_ (Dec 1999).
 
@@ -368,7 +368,7 @@ _Inefficient Markets._ Chapter 3.
 
 Gabaix, Xavier, Arvind Krishnamurthy, and Olivier Vigneron. "Predictable Risk Premia When Arbitrage is Limited: Evidence from Mortgage-Backed Securities.
 
-{{% resource_link "b1cd208d-9527-4042-aaa8-b5937a453f07" "Froot" %}}, and Dabora. "How are Stock Prices Affected by the Location of Trade?" _J Fin Ec_ 53 (1999): 189-216.
+[Froot](http://www.people.hbs.edu/kfroot/), and Dabora. "How are Stock Prices Affected by the Location of Trade?" _J Fin Ec_ 53 (1999): 189-216.
 
 Lamont, and Thaler. "Can the Market Add and Subtract? Mispricing in Tech Stock Carve-Outs." _Journal of Political Economy_ (April 2003).
 
@@ -392,7 +392,7 @@ Fama, E., and K. French. "Multifactor Explanations of Asset Pricing Anomalies." 
 
 Porta, J. La, J. Lakonishok, A. Shleifer, and R. Vishny. "Good News for Value Stocks: Further Evidence on Market Efficiency." _Journal of Finance_ (June 1997).
 
-{{% resource_link "83028fc1-8bd2-4c38-bb1b-a51afc29165c" "Lettau, Martin" %}}, and Sydney. "Resurrecting the (C)CAPM: A Cross-Sectional Test When Risk Premia Are Time-Varying." (With Syndey Ludvigson). _Journal of Political Economy_ 109, no. 6: 1238-1287.
+[Lettau, Martin](http://faculty.haas.berkeley.edu/lettau/), and Sydney. "Resurrecting the (C)CAPM: A Cross-Sectional Test When Risk Premia Are Time-Varying." (With Syndey Ludvigson). _Journal of Political Economy_ 109, no. 6: 1238-1287.
 
 ### Aggregate Equity Premium
 
@@ -422,7 +422,7 @@ Hong, H., T. Lim, and J. Stein. _Bad News Travel Slowly: Size, Analyst Coverage 
 
 \*Lee, C., and Swaminathan. "Price Momentum and Trading Volume." _Journal of Finance_.
 
-Moskowitz, T., and Grinblatt. "{{% resource_link "f6509cf6-57e7-4f19-a741-f837ef4bf9ca" "Do Industries Explain Momentum?" %}}" _Journal of Finance_.
+Moskowitz, T., and Grinblatt. "[Do Industries Explain Momentum?](http://dx.doi.org/10.1111/0022-1082.00146)" _Journal of Finance_.
 
 Yao, Tong. "When Are Momentum Profits Due to Factor Dynamics?"
 
@@ -430,17 +430,17 @@ Kent, Subrahmanyam, and Titman. "Overconfidence, Arbitrage, and Equilibrium Asse
 
 "Rational" Non-standard Preferences
 
-Campbell, J., and J. Cochrane. "{{% resource_link "ed2e110a-727a-46bc-b121-aa138d4a166e" "By Force of Habit: A Consumption-Based Explanation of Aggregate Stock Market Behavior" %}}." _JPE_ (1999).
+Campbell, J., and J. Cochrane. "[By Force of Habit: A Consumption-Based Explanation of Aggregate Stock Market Behavior](http://www.defaultrisk.com/pa_related_16.htm)." _JPE_ (1999).
 
-{{% resource_link "2e9978a3-ba3b-469f-a21b-ab22899ddea5" "Epstein, L" %}}., and S. Zin. "Substitution, Risk Aversion, and the Temporal Behavior of Consumption and Asset Returns: A Theoretical Framework." _Econometrica_ (1989): 937-68.
+[Epstein, L](http://people.bu.edu/lepstein/)., and S. Zin. "Substitution, Risk Aversion, and the Temporal Behavior of Consumption and Asset Returns: A Theoretical Framework." _Econometrica_ (1989): 937-68.
 
-\*Hansen, L., {{% resource_link "633b951a-e28c-41a9-bb18-95095211dd25" "T. Sargent," %}} T. Tallarini. "Robust Permanent Income and Pricing." Mimeo. Chicago, 1999.
+\*Hansen, L., [T. Sargent,](http://www.stanford.edu/~sargent/research.html) T. Tallarini. "Robust Permanent Income and Pricing." Mimeo. Chicago, 1999.
 
 ### Evidence on Rational Expectations
 
 Froot, K., and J. Frankel. "Forward Discount Bias: Is it an Exchange Risk Premium?" _QJE_ (1989): 139-61.
 
-Gourinchas, P. O., and A. Tornell. "{{% resource_link "7ac9ecc5-3b7a-427f-a352-2dafa8a25921" "Exchange Rate Dynamic and Learning" %}}." NBER WP, 1996.
+Gourinchas, P. O., and A. Tornell. "[Exchange Rate Dynamic and Learning](http://papers.nber.org/papers/W5530)." NBER WP, 1996.
 
 \*Ito, T. "Foreign Exchange Rate Expectations: Micro Survey Data." _AER_ 80, no. 3 (June 1990): 434-49.
 
@@ -454,21 +454,21 @@ Smith, Vernon, Gerruy Suchanek, and Arlington Williams. "Bubbles, Crashes and En
 
 \*Gabaix, Xavier, Parameswaran Gopikrishnan, Vasiliki Plerou, and H. Eugene Stanley. "A Theory of Power Law Distributions in Financial Market Fluctuations." _Nature_ 423 (2003): 267-70.
 
-———. "A Theory of Large Fluctuations in Stock Market Activity." ({{% resource_link "ac7634f5-5ebb-494f-87f0-ac8143597ab6" "PDF" %}})
+———. "A Theory of Large Fluctuations in Stock Market Activity." ([PDF](http://econ-www.mit.edu/faculty/))
 
 ### Bubbles and Cashes
 
 Theory
 
-Abreu, and {{% resource_link "4b2f242b-17cf-4ebe-bd5f-d5f1ce3c26c2" "Brunnermeier" %}}. "Bubbles and Crashes." _Econometrica_ 71, no. 1 (2003): 173-204. 
+Abreu, and [Brunnermeier](http://www.princeton.edu/~markus/). "Bubbles and Crashes." _Econometrica_ 71, no. 1 (2003): 173-204. 
 
-\*Baker, Malcolm, and {{% resource_link "af87fae4-2d8e-43b2-b035-f8543f16f9c8" "Jeffrey Wurgler" %}}. "Investor Sentiment and the Cross-Section of Stock Returns." 2003.
+\*Baker, Malcolm, and [Jeffrey Wurgler](http://pages.stern.nyu.edu/~jwurgler/). "Investor Sentiment and the Cross-Section of Stock Returns." 2003.
 
 Bulow, Jeremy, and Paul Klemperer. "Rational Frenzies and Crashes." _Journal of Political  Economy_ 102, no. 1 (1994): 1-23.
 
 \*Gabaix, Xavier, Parameswaran Gopikrishnan, Vasiliki Plerou, and H. Eugene Stanley. "A Theory of Power Law Distributions in Financial Market Fluctuations." _Nature_ 423, (2003): 267-70.
 
-Hong, and Stein. "{{% resource_link "4f651cd3-04fc-46f7-990b-4aca637a3648" "Differences of Opinion, Rational Arbitrage and Market Crashes" %}}." NBER WP _7376_.
+Hong, and Stein. "[Differences of Opinion, Rational Arbitrage and Market Crashes](http://papers.nber.org/papers/W7376)." NBER WP _7376_.
 
 Shiller, R. _Irrational Exuberance_. Princeton U. Press, 2000.
 
@@ -494,17 +494,17 @@ Odean, T. "Volume, Volatility, Price, and Profit When All Traders Are Above Aver
 
 ### Some Corporate Finance
 
-\*Barker, M., and {{% resource_link "50128cb3-2ee1-4dcb-a4b9-2eabbc69de7f" "J. Wurgler" %}}. "Market Timing and Capital Structure." _Journal of Finance_ (February 2002).
+\*Barker, M., and [J. Wurgler](http://www.stern.nyu.edu/~jwurgler/). "Market Timing and Capital Structure." _Journal of Finance_ (February 2002).
 
-\*Barker, M., and J. Wurgler. "Market Timing and Capital Structure." _Journal of Finance_ (February 2002). See {{% resource_link "50128cb3-2ee1-4dcb-a4b9-2eabbc69de7f" "other papers" %}}.
+\*Barker, M., and J. Wurgler. "Market Timing and Capital Structure." _Journal of Finance_ (February 2002). See [other papers](http://www.stern.nyu.edu/~jwurgler/).
 
-Landier, Augustin, and David Thesmar. "{{% resource_link "9db3deb9-f6ec-44a9-9ce5-0e9279c91c1f" "Contracting with Optimistic Entrepreneurs: Theory and Evidence" %}}."
+Landier, Augustin, and David Thesmar. "[Contracting with Optimistic Entrepreneurs: Theory and Evidence](http://ideas.repec.org/p/cpr/ceprdp/3971.html)."
 
-{{% resource_link "fe661201-9b6b-4010-be39-5faf0b89a92d" "Malmendier, Ulrike," %}} and Geoffrey Tate. "CEO Overconfidence and Corporate Investment." May 2003.
+[Malmendier, Ulrike,](http://www.econ.berkeley.edu/~ulrike/index.html) and Geoffrey Tate. "CEO Overconfidence and Corporate Investment." May 2003.
 
 ### Moods, the Sun and the Moon
 
-Hirshleifer, Jack, and Tyler Shumway. "Good Day Sunshine: Stock Returns and the Weather." _Journal of Finance_. {{% resource_link "bae5cb2e-8310-4714-9997-015a0563b316" "David Hirshleifer: Ralph M. Kurtz Chair in Finance" %}}.
+Hirshleifer, Jack, and Tyler Shumway. "Good Day Sunshine: Stock Returns and the Weather." _Journal of Finance_. [David Hirshleifer: Ralph M. Kurtz Chair in Finance](http://uci.academia.edu/DavidHirshleifer).
 
 Yuan, Kathy, Lu Zheng, Qiaoqiao Zhu. "Are Investors Moonstruck? Lunar Phases and Stock Returns."
 
@@ -512,7 +512,7 @@ Yuan, Kathy, Lu Zheng, Qiaoqiao Zhu. "Are Investors Moonstruck? Lunar Phases an
 
 Fama, E. "Market Efficiency, Long-Term Returns, and Behavioral Finance." _J Fin Econ_ (1998): 283-306.
 
-Loughran, T., and Ritter. "{{% resource_link "f110cd54-87a6-4dd1-8906-d9e6c6d9bf7a" "Uniformly Least Powerful Tests of Market Efficiency." %}}" {{% resource_link "356348c8-94e3-4df2-a0c0-d9a41c624bd3" "_Journal of Financial Economics_" %}}. WP U. Florida.
+Loughran, T., and Ritter. "[Uniformly Least Powerful Tests of Market Efficiency.](http://dx.doi.org/10.1016/S0304-405X(99)00054-9)" [_Journal of Financial Economics_](http://jfe.rochester.edu/). WP U. Florida.
 
 Shleifer, A., and R. Vishny. "The Limits of Arbitrage." _Journal of Finance_ (1997): 35-55.
 
@@ -531,7 +531,7 @@ Gode, D., and S. Sunder. "Allocative Efficiency of Markets with Zero-Intelligenc
 
 Levy, Levy, and Solomon. "Microscopic Simulations of Financial Markets." Academic Press, 2000.
 
-See {{% resource_link "da7c5eb2-ea9c-4f85-a5e4-5adf24378d5e" "other resources" %}}.
+See [other resources](http://www.econ.iastate.edu/tesfatsi/ace.htm).
 
 ### Artificial Intelligence Perspectives
 
@@ -545,7 +545,7 @@ Gilboa, and Schmeidler. "Case-Based Decision Theory." _QJE_ 110, no. 3 (August
 
 Machine Learning
 
-Vapnik, V. N. "{{% resource_link "f7e33cbe-0b6c-4e70-9011-bacc02c9c21e" "The Nature of Statistical Learning Theory" %}}." Berlin: Springer-Verlag, 1995.
+Vapnik, V. N. "[The Nature of Statistical Learning Theory](http://www.santafe.edu/~shalizi/reviews/vapnik-nature/)." Berlin: Springer-Verlag, 1995.
 
 ### Neuroeconomics
 
